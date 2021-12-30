@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770528897783",
+    "project_id": "anidefteri-2ac2b",
+    "storage_bucket": "anidefteri-2ac2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770528897783:android:65157fb86f8c5dbc6a41f2",
+        "android_client_info": {
+          "package_name": "com.example.anidefteri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770528897783-kl76otu85296pcib72dcpcltgfe8mh75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXaoD-xrFrzkCfhBm8MuZd30d58HC3M3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770528897783-kl76otu85296pcib72dcpcltgfe8mh75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
