@@ -98,32 +98,7 @@ class _YUklemesayfasiiState extends State<YUklemesayfasii> {
     );
   }
 
-  fotografsecimi() {
-    return showDialog(
-      context: context,
-      builder: (context) {
-        return SimpleDialog(
-          title: Text("Fotoğraf Seçimi"),
-          children: [
-            SimpleDialogOption(
-              child: Text(" Fotoğraf Çek"),
-              onPressed: fotografcek,
-            ),
-            SimpleDialogOption(
-              child: Text("Galeriden Seç"),
-              onPressed: galeridensec,
-            ),
-            SimpleDialogOption(
-              child: Text("İptal"),
-              onPressed: () {
-                Navigator.pop(context);
-              },
-            ),
-          ],
-        );
-      },
-    );
-  }
+  
 
   Scaffold secilenfotografveyaziyeri() {
     return Scaffold(
